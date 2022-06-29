@@ -19,7 +19,7 @@ VANTA.WAVES({
 //links
 document.getElementById("github").addEventListener("click", () => window.location.href = "https://github.com/HumitaFN")
 document.getElementById("youtube").addEventListener("click", () => window.location.href = "https://www.youtube.com/channel/UCM8BajvghRokd36mESQQ-FQ")
-document.getElementById("discord").addEventListener("click", () => window.location.href = "https://discord.gg/ydN8PRtAEq")
+document.getElementById("discord").addEventListener("click", () => alert("Humita#6279"))
 document.getElementById("twitch").addEventListener("click", () => window.location.href = "https://www.twitch.tv/fnhumita")
 document.getElementById("twitter").addEventListener("click", () => window.location.href = "https://twitter.com/Hum1ta")
 
